@@ -1,0 +1,18 @@
+{
+  "VALENTINE_BOX": [
+    "Red Roses Bouquet",
+    "Box of chocolates",
+    "Love card",
+    "Women’s perfume"
+  ],
+  "BIRTHDAY_BOX": [
+    "Birthday cupcake",
+    "$100 Visa Gift Card",
+    "Birthday card"
+  ],
+  "CLIENT_GIFT_BOX": [
+    "Bottle of wine",
+    "Fruit basket",
+    "Pen"
+  ]
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "orderId": "ORD100",
+    "orderTotal": 90,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "123 Gift Lane, Toronto, ON",
+    "customerName": "Alice Johnson",
+    "customerEmail": "alice@example.com",
+    "lineItems": [
+      { "lineItemId": "LI100","productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 },
+      { "lineItemId": "LI101", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 },
+      { "lineItemId": "LI102", "productId": "BIRTHDAY_BOX", "productName": "Birthday Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD101",
+    "orderTotal": 60,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "124 Oak Lane, Toronto, ON",
+    "customerName": "Bob Smith",
+    "customerEmail": "bob@example.com",
+    "lineItems": [
+      { "lineItemId": "LI103", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 },
+      { "lineItemId": "LI104", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD102",
+    "orderTotal": 30,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "125 Pine St, Toronto, ON",
+    "customerName": "Carol White",
+    "customerEmail": "carol@example.com",
+    "lineItems": [
+      { "lineItemId": "LI105", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD103",
+    "orderTotal": 90,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "126 Birch St, Toronto, ON",
+    "customerName": "David Lee",
+    "customerEmail": "david@example.com",
+    "lineItems": [
+      { "lineItemId": "LI106", "productId": "BIRTHDAY_BOX", "productName": "Birthday Box", "price": 30 },
+      { "lineItemId": "LI107", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 },
+      { "lineItemId": "LI108", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD104",
+    "orderTotal": 60,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "127 Willow Ave, Toronto, ON",
+    "customerName": "Eva Green",
+    "customerEmail": "eva@example.com",
+    "lineItems": [
+      { "lineItemId": "LI109", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 },
+      { "lineItemId": "LI110", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD105",
+    "orderTotal": 30,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "128 Cedar Rd, Toronto, ON",
+    "customerName": "Frank Yu",
+    "customerEmail": "frank@example.com",
+    "lineItems": [
+      { "lineItemId": "LI111", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD106",
+    "orderTotal": 30,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "129 Maple Dr, Toronto, ON",
+    "customerName": "Grace Kim",
+    "customerEmail": "grace@example.com",
+    "lineItems": [
+      { "lineItemId": "LI112", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD107",
+    "orderTotal": 30,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "130 Elm St, Toronto, ON",
+    "customerName": "Henry Zhou",
+    "customerEmail": "henry@example.com",
+    "lineItems": [
+      { "lineItemId": "LI113", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD108",
+    "orderTotal": 30,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "131 Fir Ln, Toronto, ON",
+    "customerName": "Ivy Patel",
+    "customerEmail": "ivy@example.com",
+    "lineItems": [
+      { "lineItemId": "LI114", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD109",
+    "orderTotal": 30,
+    "orderDate": "2025-06-23",
+    "shippingAddress": "132 Spruce Way, Toronto, ON",
+    "customerName": "Jack Ma",
+    "customerEmail": "jack@example.com",
+    "lineItems": [
+      { "lineItemId": "LI115", "productId": "BIRTHDAY_BOX", "productName": "Birthday Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD110",
+    "orderTotal": 60,
+    "orderDate": "2025-06-24",
+    "shippingAddress": "123 Gift Lane, Toronto, ON",
+    "customerName": "Alice Johnson",
+    "customerEmail": "alice@example.com",
+    "lineItems": [
+      { "lineItemId": "LI001", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 },
+      { "lineItemId": "LI002", "productId": "BIRTHDAY_BOX", "productName": "Birthday Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD111",
+    "orderTotal": 30,
+    "orderDate": "2025-06-25",
+    "shippingAddress": "456 Oak Street, Ottawa",
+    "customerName": "Bob Johnson",
+    "customerEmail": "bob@example.com",
+    "lineItems": [
+      { "lineItemId": "LI003", "productId": "BIRTHDAY_BOX", "productName": "Birthday Box", "price": 30 }
+    ]
+  },
+  {
+    "orderId": "ORD112",
+    "orderTotal": 60,
+    "orderDate": "2025-06-26",
+    "shippingAddress": "789 Maple Avenue, Montreal",
+    "customerName": "Charlie Brown",
+    "customerEmail": "charlie@example.com",
+    "lineItems": [
+      { "lineItemId": "LI004", "productId": "VALENTINE_BOX", "productName": "Valentines Box", "price": 30 },
+      { "lineItemId": "LI005", "productId": "CLIENT_GIFT_BOX", "productName": "Client Gift Box", "price": 30 }
+    ]
+  }
+]
